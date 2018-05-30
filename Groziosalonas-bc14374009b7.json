@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "groziosalonas-187918",
+  "private_key_id": "bc14374009b76a12442e5ee41cecd1a5a10a6859",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDCUFtQDC0obFSs\nFkKREK+RDP5ZOtxTW4jEf2z2b/LXEIQ7xEMnTwBdtquU+CdrcrmITGbZ8PonJ4MS\nvE9UmGFdOUCdHOSxNb0CFIS0kksfk4l+H71+V68MHA9LCjf3Na5KqaHcq+iIl5vG\n3eRaAHTmFkZWocb2BmEkseFdxqLWPhnP3PUBpCrkQaRXmrq1eJDJfPr806z23saE\n6sUT994CNytH5OwiJfDQ/HpHPYXb7sRgx1hn4PpNR3SDPaw43yMm0xqiJjwM4Wpe\nkETYaADy4yhvkLsUl8fljkjNV7w8Fw7rvfcx7EFw9TwSzQ7gC+ge4L1OLCRKJxRA\nJEYhUGbZAgMBAAECggEAOvu0dBx2Grajjyckpq83c+LLVF+jIKSA5BDADSBXSQQo\n95FwRv7aoBfChrI7GQkWm3KBp/dXn8oFJgtGU2n76BXocKikHMywpnB/BecAacHZ\nsxDEbxUDvDvKQp+D9IT1dpF+YiNGryvCLAAQAGfyFCO/zy1FXUn7c+2Q+OvCYyCo\nKCubKD07WfPzifn/L7UOS/dz777GeFsEGK2Jtg82b68C5iMBK0M387x/oqSORse0\nZgA3FoIceMCINa5j/iVIHWegd82+GeTCusutEjHVBva+ufxhSfmx7jc0w8EWUKl+\nctXcecxfNcqQ4qNXL+3Ym8WaMIPfT0zceL0VThGznwKBgQDn6reHdI9rIDqSzQIX\n1FUbehopZaMz7C86RExbSbtyTnLsV+ZvyGhz09oE/BvETNQvat+itpMdPspBaXgz\n+UY3fCvBkowc4Rkqicm/RFJzElXgFGTjE50f3/z8FNmR6i1KQPnFDe4B0/C/twA/\njxCi5LEdOP5pW51dr3sgaUp6hwKBgQDWfgBoS9oX2tbwukLDMjUEbVc5tQ+XSZtH\n0lCD2psTQHIrWYRpNixL3SGXWSSqWKaiWP3FjNhV5NB1nyvwhgyKeYTAo/4jHQyu\nvOE9Eom6eB7MJxCzVJRnfLwbalnCZaFUcwQVhn9LQDZtHqBow3qSYqyURjuPR49p\nECep5wGLnwKBgQCM8KPgegG+xLNUC6q9+JhQPoAvsEjigSKicmdFAyYbbXmCEFlG\njbCM066nYN8vCNHaj0ShifsVxtb7sbEPROpbRecBmKH12waER4CH8Gl67SWrLDmz\nlnPiryj7uWAPwRUNDze7fZ+rFLY2jGxmM/eURw8sBzr1pGuaR863/8T3eQKBgQCe\nrwdUIdHO1iswW0xrJqjMhqwCWG6ZaW5E21aPxdn2izYr1gU85UQuOAHS+7NBh2Z4\nM0hDr6iZGzgR3NlgD3wVskNBVdH9Xk90su4cBav5VUbLmJclZQyJ52EvEyYmyJNr\na8/4sNFZ9b6OShs4hm4XAINXCwKjRLjXbIk7jFi7VwKBgBVekuf/RHGnOO3xxl6q\nArLimFDAKETBz5X2G34dcGPSr/nIEi7lgJWD+7Zb3pZCe96Sf4VLD22BMvl21gq9\nHtGAkN0kZXJEFFnSaZx+42gM4qq68gh75MMyGexuPxr/dovir5QABQwgkdwpyky6\nUY0vZKKsL8Lb9c3BbUtY/ua6\n-----END PRIVATE KEY-----\n",
+  "client_email": "gsis-745@groziosalonas-187918.iam.gserviceaccount.com",
+  "client_id": "116633309577580006148",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gsis-745%40groziosalonas-187918.iam.gserviceaccount.com"
+}
